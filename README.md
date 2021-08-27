@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Get a international job position
-- ⚡ Fun fact: I love to play Video Games, I'm a former OL(American footbal position) and I have a photography as my hobby
+- ⚡ Fun fact: I love to play Video Games, I'm a former O.L.(American footbal position) and I have a photography as my hobby
 
 ### Connect with me:
 
