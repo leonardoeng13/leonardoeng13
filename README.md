@@ -7,12 +7,12 @@
 
 </details>
 
-## I'm a Husband, Father, IT Manager, Developer, and Photographer!!
+## Developer with an MBA in Business Management and IT and a degree in Software Engineering and IT Management. Professional experience as an IT Manager.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Get a international job position
-- ⚡ Fun fact: I love to play Video Games, I'm a former O.L.(American footbal position) and I have a photography as my hobby
+- ⚡ Fun fact: I love to play video games, I'm a former O.L.(American football position) and my hobby is photography.
 
 ### Connect with me:
 
