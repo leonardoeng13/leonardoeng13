@@ -1,11 +1,8 @@
 ### Hi there, I'm Leo de Andrade - aka [Leonardoeng13] 👋
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+
 
 ![Leonardoeng13's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardoeng13&show_icons=true&theme=radical)
-
-</details>
 
 ## Developer with an MBA in Business Management and IT and a degree in Software Engineering and IT Management. Professional experience as an IT Manager.
 
