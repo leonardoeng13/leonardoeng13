@@ -1,5 +1,4 @@
-### Hi there, I'm Leo de Andrade - aka [Leonardoeng13] 👋
-
+![New_LinedIn](https://user-images.githubusercontent.com/84752859/137026417-9b56907d-55d0-4942-a073-347e6481f4f8.png)
 
 
 ![Leonardoeng13's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardoeng13&show_icons=true&theme=radical)
