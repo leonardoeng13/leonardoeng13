@@ -51,4 +51,4 @@
 
 [twitter]: https://twitter.com/andrede_leo
 [instagram]: https://www.instagram.com/euleodeandrade
-[linkedin]: https://linkedin.com/in/leonardodeandrade
+[linkedin]: https://linkedin.com/in/leonardo-andrade-bh
