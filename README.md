@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/leonardo-andrade-bh"><img src="https://img.shields.io/badge/LinkedIn-leonardo--andrade--bh-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/andrede_leo"><img src="https://img.shields.io/badge/X-@andrede__leo-000000?logo=x&logoColor=white" alt="X"></a>
   <a href="https://www.instagram.com/euleodeandrade"><img src="https://img.shields.io/badge/Instagram-@euleodeandrade-E4405F?logo=instagram&logoColor=white" alt="Instagram"></a>
-  <img src="https://img.shields.io/badge/based%20in-Belo%20Horizonte%2C%20Brazil-1fb88a" alt="Based in Belo Horizonte, Brazil">
+  <img src="https://img.shields.io/badge/remote-worldwide%20%C2%B7%20UTC--3-1fb88a" alt="Remote · Worldwide (UTC−3)">
 </p>
 
 ## About
