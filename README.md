@@ -52,10 +52,6 @@ Sports analytics on 25 Hz tracking data from professional football, built with t
 ## GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=leonardoeng13&show_icons=true&hide_border=true&bg_color=0b1412&title_color=2ee6a8&icon_color=2ee6a8&text_color=c9d1d9" alt="GitHub stats">
-</p>
-
-<p align="center">
   <img src="github-metrics.svg" alt="GitHub metrics: languages and featured repositories" width="480">
 </p>
 
