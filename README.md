@@ -1,54 +1,57 @@
-![New_LinedIn](https://user-images.githubusercontent.com/84752859/137026417-9b56907d-55d0-4942-a073-347e6481f4f8.png)
+<p align="center">
+  <img src="assets/banner.png" alt="Leonardo De Andrade — CTO · AI Engineer · Systems Architect" width="100%">
+</p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/leonardo-andrade-bh"><img src="https://img.shields.io/badge/LinkedIn-leonardo--andrade--bh-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/andrede_leo"><img src="https://img.shields.io/badge/X-@andrede__leo-000000?logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.instagram.com/euleodeandrade"><img src="https://img.shields.io/badge/Instagram-@euleodeandrade-E4405F?logo=instagram&logoColor=white" alt="Instagram"></a>
+  <img src="https://img.shields.io/badge/based%20in-Belo%20Horizonte%2C%20Brazil-1fb88a" alt="Based in Belo Horizonte, Brazil">
+</p>
 
-![Leonardoeng13's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardoeng13&show_icons=true&theme=radical)
+## About
 
-## Developer with an MBA in Business Management and IT and a degree in Software Engineering and IT Management. Professional experience as an IT Manager.
+CTO and co-founder of **RVR1 Gestão de Impacto** (pronounced *Rover One*). I design and build software end to end: architecture, data platforms, integrations and the products on top of them. Technical authority from building, not from headcount.
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Get a international job position
-- ⚡ Fun fact: I love to play video games, I'm a former O.L.(American football position) and my hobby is photography.
+- **20+ years** in data integration · **15+ years** building APIs · **10 years** on cloud platforms · **5–6 years** on AWS
+- Deep **SAP** background: ECC / EHP8, HCM, BTP, RFC / BAPI, pyrfc
+- **MIT MicroMasters** in Data Science · **Harvard** leadership certificate · graduate studies in progress
+- Mentor of Capstone students at **Crimson Education** · member of the **Anthropic Partner Network**
 
-### Connect with me:
+## What I'm building
 
-[<img align="left" alt="Leonardoeng13 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Leonardoeng13 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Leonardoeng13 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+| Product | What it does |
+|---|---|
+| **Alyva** | Multi-tenant MRP / ERP SaaS |
+| **Alyva AMCS** | SAP-centric middleware connector |
+| **Inpulso.ai** | Election campaign management platform |
+| **CIM** | Municipal intelligence |
+| **Indexa** | PDCA-driven organizational diagnostic engine |
 
-<br />
+## Currently
 
-### Languages and Tools:
+- **MITxT 2.980x Sports Analytics** · project manager of team BraMex · [What does physical exertion buy in a football match?](https://github.com/leonardoeng13/bramex-football-exertion-pitch-control)
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+## Stack
 
-<br />
-<br />
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" alt="SAP">
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
+</p>
 
----
+## GitHub
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!-- 1. 🗣 Commented on [#2](https://github.com/leonardoeng13/) in [leonardoeng13](https://github.com/leonardoeng13/)
-2. ❗️ Closed issue [#2](https://github.com/leonardoeng13/) in [leonardoeng13](https://github.com/leonardoeng13/)
-3. ❌ Closed PR [#11](https://github.com/leonardoeng13/) in [leonardoeng13](https://github.com/leonardoeng13/)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/) in [leonardoeng13](https://github.com/leonardoeng13/)
-5. 🎉 Merged PR [#10](https://github.com/leonardoeng13/) in [leonardoeng13](https://github.com/leonardoeng13/) -->
-<!--END_SECTION:activity-->
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=leonardoeng13&show_icons=true&hide_border=true&bg_color=0b1412&title_color=2ee6a8&icon_color=2ee6a8&text_color=c9d1d9" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoeng13&layout=compact&hide_border=true&bg_color=0b1412&title_color=2ee6a8&text_color=c9d1d9" alt="Top languages">
+</p>
 
-</details>
+## Off the clock
 
-[twitter]: https://twitter.com/andrede_leo
-[instagram]: https://www.instagram.com/euleodeandrade
-[linkedin]: https://linkedin.com/in/leonardo-andrade-bh
+Former offensive lineman in American football, photographer and gamer.
