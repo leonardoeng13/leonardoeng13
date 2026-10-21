@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Leonardo De Andrade — CTO · AI Engineer · Systems Architect" width="100%">
+  <img src="assets/banner.jpg" alt="Architecture diagrams on a wall beside a desk overlooking a city at sunset" width="100%">
 </p>
 
 <p align="center">
