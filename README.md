@@ -28,9 +28,13 @@ CTO and co-founder of **RVR1 Gestão de Impacto** (pronounced *Rover One*). I de
 | **CIM** | Municipal intelligence |
 | **Indexa** | PDCA-driven organizational diagnostic engine |
 
-## Currently
+## Featured project
 
-- **MITxT 2.980x Sports Analytics** · project manager of team BraMex · [What does physical exertion buy in a football match?](https://github.com/leonardoeng13/bramex-football-exertion-pitch-control)
+<a href="https://github.com/leonardoeng13/bramex-football-exertion-pitch-control">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=leonardoeng13&repo=bramex-football-exertion-pitch-control&hide_border=true&bg_color=0b1412&title_color=2ee6a8&icon_color=2ee6a8&text_color=c9d1d9" alt="BraMex: what does physical exertion buy in a football match?">
+</a>
+
+Sports analytics on 25 Hz tracking data from professional football, built with team BraMex in MIT's MITxT 2.980x. I lead the project as PM and integration lead.
 
 ## Stack
 
