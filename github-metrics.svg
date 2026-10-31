@@ -33,16 +33,16 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#03001c" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ffee4a" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -84,14 +84,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="212.95502025186528" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="212.95502025186528" y="0" width="167.77114651564975" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="380.72616676751505" y="0" width="37.145764490335715" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="417.87193125785075" y="0" width="26.5089099394366" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="444.38084119728734" y="0" width="4.955255012620266" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="449.33609620990757" y="0" width="4.75637065123046" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="454.092466861138" y="0" width="4.105895101319329" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="458.19836196245734" y="0" width="1.801638037542595" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="207.16172829840824" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="207.16172829840824" y="0" width="163.903683559965" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="371.06541185837324" y="0" width="36.13524002243467" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="407.20065188080787" y="0" width="25.787753638611097" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="432.98840551941896" y="0" width="16.637794713143332" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="449.62620023256227" y="0" width="4.62697692391263" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="454.2531771564749" y="0" width="3.9941971050754317" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="458.24737426155036" y="0" width="1.7526257384496073" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -103,7 +103,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>46.29%</div>
+                                <div>45.04%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -114,7 +114,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>8.08%</div>
+                                <div>7.86%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -125,7 +125,7 @@
                                 Jupyter Notebook
                             </div>
                             <small>
-                                <div>1.08%</div>
+                                <div>3.62%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -136,7 +136,7 @@
                                 Ruby
                             </div>
                             <small>
-                                <div>0.89%</div>
+                                <div>0.87%</div>
                             </small>
                         </div>
                     </section>
@@ -149,7 +149,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>36.47%</div>
+                                <div>35.63%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -160,7 +160,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>5.76%</div>
+                                <div>5.61%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -171,7 +171,7 @@
                                 CSS
                             </div>
                             <small>
-                                <div>1.03%</div>
+                                <div>1.01%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -182,7 +182,7 @@
                                 Shell
                             </div>
                             <small>
-                                <div>0.39%</div>
+                                <div>0.38%</div>
                             </small>
                         </div>
                     </section>
@@ -206,7 +206,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>leonardoeng13/bramex-football-exertion-pitch-control</span>
-                                        <span>created 8 days ago</span>
+                                        <span>created 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">What does physical exertion buy in a football match? Athlete load x pitch control on 25 Hz DFL tracking data. Team BraMex, MITxT 2.980x Sports Analytics</div>
